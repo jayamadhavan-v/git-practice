@@ -1,1 +1,2 @@
 Learning git day 1
+Git tracks changes using commits
