@@ -1,3 +1,5 @@
 Learning git day 1
 Git tracks changes using commits
 This line is added in feature branch
+
+Line added from branch A
